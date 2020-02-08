@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetGamma", "SetGamma\SetGamma.csproj", "{9EEA6277-FE9E-4710-A331-04C351E15F7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EEA6277-FE9E-4710-A331-04C351E15F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EEA6277-FE9E-4710-A331-04C351E15F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EEA6277-FE9E-4710-A331-04C351E15F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EEA6277-FE9E-4710-A331-04C351E15F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {024669F3-9B1A-4248-B427-F23C31191775}
+	EndGlobalSection
+EndGlobal
